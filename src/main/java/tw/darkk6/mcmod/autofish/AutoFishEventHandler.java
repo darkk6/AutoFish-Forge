@@ -176,7 +176,7 @@ public class AutoFishEventHandler {
 		//只搜尋 hotbar
 		for (int i = 0; i < 9; i++) {
 			ItemStack item = inventory.mainInventory[i];
-			if (item != null && item.getItem() == Items.fishing_rod && canUseThisRod(item)){
+			if (item != null && item.getItem() == Items.FISHING_ROD && canUseThisRod(item)){
 				//這個道具是釣竿，且可以使用 
 				inventory.currentItem = i;
 				break;
@@ -200,7 +200,7 @@ public class AutoFishEventHandler {
 	private boolean isHoldingRod(EntityPlayer player){
 		ItemStack item=player.getHeldItemMainhand();
 		if(item==null) return false;
-		return item.getItem() == Items.fishing_rod;
+		return item.getItem() == Items.FISHING_ROD;
 	}
 	
 	

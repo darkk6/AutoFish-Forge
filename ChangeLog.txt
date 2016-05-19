@@ -1,5 +1,9 @@
 ** Do not preview this file in mediafire , please download it.
 
+- 1.5-mc1.9.4
+    更新到 Minecraft 1.9.4 , Forge 1909+
+
+
 - 1.2-mc1.9
     更新 Forge API 到 Forge 1.9 - 12.16.0.1811 , 請務必使用此 Forge 以上的版本
 
