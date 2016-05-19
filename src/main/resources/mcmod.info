@@ -1,0 +1,16 @@
+[
+{
+  "modid": "autofish_darkk6",
+  "name": "AutoFish Mod",
+  "description": "A auto fishing mod for you to protect your eyes(?)",
+  "version": "1.4-mc1.9",
+  "mcversion": "1.9",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["darkk6"],
+  "credits": "Thanks to Forge and MCP team!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

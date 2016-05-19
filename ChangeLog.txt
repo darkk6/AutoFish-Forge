@@ -1,0 +1,10 @@
+** Do not preview this file in mediafire , please download it.
+
+- 1.2-mc1.9
+    更新 Forge API 到 Forge 1.9 - 12.16.0.1811 , 請務必使用此 Forge 以上的版本
+
+- 1.1-mc1.9
+    新增判斷聲音最大距離功能，避免多人模式中一個人上鉤大家都拉桿
+
+- 1.0-mc1.9
+    Minecraft 1.9 第一版釋出
