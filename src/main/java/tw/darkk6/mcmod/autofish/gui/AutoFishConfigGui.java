@@ -11,8 +11,7 @@ import tw.darkk6.mcmod.autofish.util.Lang;
 public class AutoFishConfigGui extends GuiConfig {
 	public AutoFishConfigGui(GuiScreen parent) {
 		super(parent,
-			new ConfigElement(
-				AutoFishMod.config.file.getCategory(Configuration.CATEGORY_GENERAL)).getChildElements(),
+			new ConfigElement(AutoFishMod.config.file.getCategory(Configuration.CATEGORY_GENERAL)).getChildElements(),
 				Reference.MOD_ID,
 				false,//需要重新進入世界 ?
 				false,//需要重新啟動 MC ?
