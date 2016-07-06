@@ -31,11 +31,11 @@ compileJava {
 }
 
 minecraft {
-    version = "1.9.4-12.17.0.1909-1.9.4"
-    if (file('../run').exists()) {
-		runDir = "../run"
+    version = "1.9.4-12.17.0.1976"
+    if (file('../0-runClient').exists()) {
+		runDir = "../0-runClient"
 	} else {
-		runDir = "run"
+		runDir = "0-runClient"
 	}
     
     // the mappings can be changed at any time, and must be in the following format.
